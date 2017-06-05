@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-flowtype",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "flow && eslint . --cache"
+  },
+  "repository": "git+https://github.com/taka-sho/eslint-config-flowtype.git",
+  "dependencies": {
+    "@takasho/eslint-config": "^0.0.3",
+    "babel-eslint": "^7.2.1",
+    "eslint-plugin-flowtype": "^2.30.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "flow-bin": "^0.47.0"
+  },
+  "keywords": ["eslint", "flowtype", "config"],
+  "author": "taka-sho <takasho530000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taka-sho/eslint-config-flowtype/issues"
+  },
+  "homepage": "https://github.com/taka-sho/eslint-config-flowtype#readme"
+}
