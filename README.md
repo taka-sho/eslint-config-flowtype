@@ -1,5 +1,7 @@
 # @takasho/eslint-config-flowtype
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/taka-sho/eslint-config-flowtype.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/taka-sho/eslint-config-flowtype.svg?branch=master)](https://travis-ci.org/taka-sho/eslint-config-flowtype)
 
 ## Installation
