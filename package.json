@@ -9,12 +9,12 @@
   "repository": "git+https://github.com/taka-sho/eslint-config-flowtype.git",
   "dependencies": {
     "@takasho/eslint-config": "^0.0.3",
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^8.2.2",
     "eslint-plugin-flowtype": "^2.34.0"
   },
   "devDependencies": {
     "eslint": "^4.1.0",
-    "flow-bin": "^0.48.0"
+    "flow-bin": "^0.66.0"
   },
   "keywords": ["eslint", "flowtype", "config"],
   "author": "Takasho",
