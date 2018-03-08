@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "eslint": "^4.1.0",
-    "flow-bin": "^0.66.0"
+    "flow-bin": "^0.67.1"
   },
   "keywords": ["eslint", "flowtype", "config"],
   "author": "Takasho",
