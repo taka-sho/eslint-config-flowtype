@@ -8,7 +8,7 @@
   },
   "repository": "git+https://github.com/taka-sho/eslint-config-flowtype.git",
   "dependencies": {
-    "@takasho/eslint-config": "^0.0.3",
+    "@takasho/eslint-config": "^0.0.4",
     "babel-eslint": "^8.2.2",
     "eslint-plugin-flowtype": "^2.34.0"
   },
